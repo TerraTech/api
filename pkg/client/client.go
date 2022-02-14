@@ -21,7 +21,7 @@
 package client
 
 import (
-	"github.com/opensourceorg/api/license"
+	"github.com/TerraTech/api/pkg/license"
 
 	"encoding/json"
 	"net/http"
