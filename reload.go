@@ -21,7 +21,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/TerraTech/api/pkg/license"
+	"github.com/TerraTech/osiApi/pkg/license"
 )
 
 type Blobs struct {

@@ -21,7 +21,7 @@
 package client
 
 import (
-	"github.com/TerraTech/api/pkg/license"
+	"github.com/TerraTech/osiApi/pkg/license"
 
 	"encoding/json"
 	"net/http"
